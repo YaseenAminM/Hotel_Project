@@ -1,4 +1,4 @@
-# Karachi Hotel Project
+# Hotel Hotel Project
 
 ## Live Demo
 
